@@ -1,4 +1,4 @@
-import type { BatteryEntry, DeviceUsage, AcademySummary } from '@/env';
+import type { BatteryEntry, DeviceUsage, AcademySummary } from '../env.d.ts';
 
 const THRESHOLD = 0.3;
 
